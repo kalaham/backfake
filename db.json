@@ -1,0 +1,46 @@
+{
+    "listasDeseos":[
+        {
+            "nombre":"mail",
+            "id":"1",
+            "items":[
+                {
+                    "nombre":"gsuit",
+                    "id":"1",
+                    "descripcion":"Aqui esta en un futuro no muy lejano la descripcion de euno de los mejores productos ofrecidos por esta empresa",
+                    "imagen":"https://via.placeholder.com/150/92c952"
+                },
+                {
+                    "nombre":"gsuit",
+                    "id":"2",
+                    "descripcion":"Aqui esta en un futuro no muy lejano la descripcion de euno de los mejores productos ofrecidos por esta empresa",
+                    "imagen":"https://via.placeholder.com/150/92c952"
+                }
+            ]
+        },
+        {
+            "nombre":"sevidores",
+            "id":"2",
+            "items":[
+                {
+                    "nombre":"gsuit",
+                    "id":"1",
+                    "descripcion":"Aqui esta en un futuro no muy lejano la descripcion de euno de los mejores productos ofrecidos por esta empresa",
+                    "imagen":"https://via.placeholder.com/150/92c952"
+                }
+            ]
+        },
+        {
+            "nombre":"gsuit",
+            "id":"3",
+            "items":[
+                {
+                    "nombre":"gsuit",
+                    "id":"1",
+                    "descripcion":"Aqui esta en un futuro no muy lejano la descripcion de euno de los mejores productos ofrecidos por esta empresa",
+                    "imagen":"https://via.placeholder.com/150/92c952"
+                }
+            ]
+        }
+    ]
+}
